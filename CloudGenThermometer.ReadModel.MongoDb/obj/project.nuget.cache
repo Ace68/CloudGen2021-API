@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uhwbilRFYQe4mEmcZNwpMeeLWYu3+P6Y5AuyslwcGruJTjmkSN6IpbQZl9l7nZtcn6sl8HerSTklnHI+mcvHcg==",
+  "dgSpecHash": "Dv3QS3Sj7UAYVEGtBqrd/tyd2Y9sdijH0zDFziLGjjv5A2a5EWhtlirQeBceUURXZQZ0uR2IJAHhPnsxUJ1Otw==",
   "success": true,
-  "projectFilePath": "E:\\Sviluppo\\GlobalAzure2021\\CloudGen2021-API\\CloudGenThermometer\\CloudGenThermometer.ReadModel.MongoDb\\CloudGenThermometer.ReadModel.MongoDb.csproj",
+  "projectFilePath": "e:\\Sviluppo\\GlobalAzure2021\\CloudGen2021-API\\CloudGenThermometer.ReadModel.MongoDb\\CloudGenThermometer.ReadModel.MongoDb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alberto\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
     "C:\\Users\\Alberto\\.nuget\\packages\\foursolid.athena\\3.2.0\\foursolid.athena.3.2.0.nupkg.sha512",
