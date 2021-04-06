@@ -1,0 +1,27 @@
+2021-04-06 14:43:12.776 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-04-06 14:43:12.809 +02:00 [INF] Hosting environment: Development
+2021-04-06 14:43:12.840 +02:00 [INF] Content root path: E:\Sviluppo\GlobalAzure2021\CloudGen2021-API\CloudGenThermometer\CloudGenThermometer
+2021-04-06 14:45:57.093 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-04-06 14:45:57.124 +02:00 [INF] Hosting environment: Development
+2021-04-06 14:45:57.127 +02:00 [INF] Content root path: E:\Sviluppo\GlobalAzure2021\CloudGen2021-API\CloudGenThermometer\CloudGenThermometer
+2021-04-06 15:13:32.368 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-04-06 15:13:32.382 +02:00 [INF] Hosting environment: Development
+2021-04-06 15:13:32.386 +02:00 [INF] Content root path: E:\Sviluppo\GlobalAzure2021\CloudGen2021-API\CloudGenThermometer\CloudGenThermometer
+2021-04-06 15:14:20.722 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-04-06 15:14:20.739 +02:00 [INF] Hosting environment: Development
+2021-04-06 15:14:20.740 +02:00 [INF] Content root path: E:\Sviluppo\GlobalAzure2021\CloudGen2021-API\CloudGenThermometer\CloudGenThermometer
+2021-04-06 15:18:09.778 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-04-06 15:18:09.787 +02:00 [INF] Hosting environment: Development
+2021-04-06 15:18:09.803 +02:00 [INF] Content root path: E:\Sviluppo\GlobalAzure2021\CloudGen2021-API\CloudGenThermometer\CloudGenThermometer
+2021-04-06 15:19:58.657 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-04-06 15:19:58.677 +02:00 [INF] Hosting environment: Development
+2021-04-06 15:19:58.683 +02:00 [INF] Content root path: E:\Sviluppo\GlobalAzure2021\CloudGen2021-API\CloudGenThermometer\CloudGenThermometer
+2021-04-06 15:21:29.415 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-04-06 15:21:29.459 +02:00 [INF] Hosting environment: Development
+2021-04-06 15:21:29.467 +02:00 [INF] Content root path: E:\Sviluppo\GlobalAzure2021\CloudGen2021-API\CloudGenThermometer\CloudGenThermometer
+2021-04-06 16:42:47.106 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-04-06 16:42:47.135 +02:00 [INF] Hosting environment: Development
+2021-04-06 16:42:47.142 +02:00 [INF] Content root path: E:\Sviluppo\GlobalAzure2021\CloudGen2021-API\CloudGenThermometer\CloudGenThermometer
+2021-04-06 16:45:32.152 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-04-06 16:45:32.166 +02:00 [INF] Hosting environment: Development
+2021-04-06 16:45:32.176 +02:00 [INF] Content root path: E:\Sviluppo\GlobalAzure2021\CloudGen2021-API\CloudGenThermometer\CloudGenThermometer

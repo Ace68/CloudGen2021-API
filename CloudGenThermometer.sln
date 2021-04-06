@@ -1,0 +1,89 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "99 Presentation", "99 Presentation", "{1007EB81-6172-4E73-BD40-573751932848}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloudGenThermometer", "CloudGenThermometer\CloudGenThermometer.csproj", "{04CBC376-F1EC-4731-973A-49545253760F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "30 Shared", "30 Shared", "{4CDDA7D3-6A2A-4E6C-8FF9-92297C9B4702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudGenThermometer.Shared", "CloudGenThermometer.Shared\CloudGenThermometer.Shared.csproj", "{637AB6F2-1534-4DC1-951A-4DE03B6618B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "20 Infrastructures", "20 Infrastructures", "{949C836D-CEB0-45CB-ACA0-35B80528884A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mediator", "Mediator", "{A590FB1C-F8A9-4265-BF95-5AE76B7C7422}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudGenThermometer.Mediator", "CloudGenThermometer.Mediator\CloudGenThermometer.Mediator.csproj", "{4F4C6B9A-0A07-4C0B-822C-48CB2C978213}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Messages", "Messages", "{EE57ACA9-46EB-48F1-8B25-A6B50AFA4AA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudGenThermometer.Messages", "CloudGenThermometer.Messages\CloudGenThermometer.Messages.csproj", "{0F961B29-28C3-4BAF-978A-750C7E481758}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "50 ApplicationServices", "50 ApplicationServices", "{0CA3203E-EAD6-429F-B15D-B0E657B23A08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudGenThermometer.ApplicationServices", "CloudGenThermometer.ApplicationServices\CloudGenThermometer.ApplicationServices.csproj", "{FA2E9B96-6AB6-46AC-BA9C-F4E4EE8370DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "40 ReadModel", "40 ReadModel", "{26B13BB8-D4EB-4747-B418-F35D95A23C04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudGenThermometer.ReadModel", "CloudGenThermometer.ReadModel\CloudGenThermometer.ReadModel.csproj", "{A992689F-CC90-4766-B9DA-504E8B526615}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MongoDb", "MongoDb", "{846F5F70-5FB1-412B-AAE4-D9125DC2F965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudGenThermometer.ReadModel.MongoDb", "CloudGenThermometer.ReadModel.MongoDb\CloudGenThermometer.ReadModel.MongoDb.csproj", "{D96D5922-A2EE-49C2-BFBD-6D04CCC1809E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04CBC376-F1EC-4731-973A-49545253760F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04CBC376-F1EC-4731-973A-49545253760F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04CBC376-F1EC-4731-973A-49545253760F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04CBC376-F1EC-4731-973A-49545253760F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{637AB6F2-1534-4DC1-951A-4DE03B6618B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{637AB6F2-1534-4DC1-951A-4DE03B6618B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{637AB6F2-1534-4DC1-951A-4DE03B6618B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{637AB6F2-1534-4DC1-951A-4DE03B6618B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F4C6B9A-0A07-4C0B-822C-48CB2C978213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4C6B9A-0A07-4C0B-822C-48CB2C978213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F4C6B9A-0A07-4C0B-822C-48CB2C978213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4C6B9A-0A07-4C0B-822C-48CB2C978213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F961B29-28C3-4BAF-978A-750C7E481758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F961B29-28C3-4BAF-978A-750C7E481758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F961B29-28C3-4BAF-978A-750C7E481758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F961B29-28C3-4BAF-978A-750C7E481758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA2E9B96-6AB6-46AC-BA9C-F4E4EE8370DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2E9B96-6AB6-46AC-BA9C-F4E4EE8370DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2E9B96-6AB6-46AC-BA9C-F4E4EE8370DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2E9B96-6AB6-46AC-BA9C-F4E4EE8370DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A992689F-CC90-4766-B9DA-504E8B526615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A992689F-CC90-4766-B9DA-504E8B526615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A992689F-CC90-4766-B9DA-504E8B526615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A992689F-CC90-4766-B9DA-504E8B526615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D96D5922-A2EE-49C2-BFBD-6D04CCC1809E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96D5922-A2EE-49C2-BFBD-6D04CCC1809E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96D5922-A2EE-49C2-BFBD-6D04CCC1809E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96D5922-A2EE-49C2-BFBD-6D04CCC1809E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{04CBC376-F1EC-4731-973A-49545253760F} = {1007EB81-6172-4E73-BD40-573751932848}
+		{637AB6F2-1534-4DC1-951A-4DE03B6618B6} = {4CDDA7D3-6A2A-4E6C-8FF9-92297C9B4702}
+		{A590FB1C-F8A9-4265-BF95-5AE76B7C7422} = {949C836D-CEB0-45CB-ACA0-35B80528884A}
+		{4F4C6B9A-0A07-4C0B-822C-48CB2C978213} = {A590FB1C-F8A9-4265-BF95-5AE76B7C7422}
+		{EE57ACA9-46EB-48F1-8B25-A6B50AFA4AA6} = {949C836D-CEB0-45CB-ACA0-35B80528884A}
+		{0F961B29-28C3-4BAF-978A-750C7E481758} = {EE57ACA9-46EB-48F1-8B25-A6B50AFA4AA6}
+		{FA2E9B96-6AB6-46AC-BA9C-F4E4EE8370DA} = {0CA3203E-EAD6-429F-B15D-B0E657B23A08}
+		{A992689F-CC90-4766-B9DA-504E8B526615} = {26B13BB8-D4EB-4747-B418-F35D95A23C04}
+		{846F5F70-5FB1-412B-AAE4-D9125DC2F965} = {949C836D-CEB0-45CB-ACA0-35B80528884A}
+		{D96D5922-A2EE-49C2-BFBD-6D04CCC1809E} = {846F5F70-5FB1-412B-AAE4-D9125DC2F965}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD6CA62F-8AC4-4DD5-A793-C5F6D9868DE8}
+	EndGlobalSection
+EndGlobal

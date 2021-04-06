@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FourSolid.Mercurio.Azure" Version="6.8.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CloudGenThermometer.ApplicationServices\CloudGenThermometer.ApplicationServices.csproj" />
+    <ProjectReference Include="..\CloudGenThermometer.Messages\CloudGenThermometer.Messages.csproj" />
+  </ItemGroup>
+
+</Project>
