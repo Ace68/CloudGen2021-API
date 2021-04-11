@@ -7,3 +7,12 @@ E:\Sviluppo\GlobalAzure2021\CloudGen2021-API\CloudGenThermometer\CloudGenThermom
 E:\Sviluppo\GlobalAzure2021\CloudGen2021-API\CloudGenThermometer\CloudGenThermometer.Shared\obj\Debug\netstandard2.1\CloudGenThermometer.Shared.csproj.CoreCompileInputs.cache
 E:\Sviluppo\GlobalAzure2021\CloudGen2021-API\CloudGenThermometer\CloudGenThermometer.Shared\obj\Debug\netstandard2.1\CloudGenThermometer.Shared.dll
 E:\Sviluppo\GlobalAzure2021\CloudGen2021-API\CloudGenThermometer\CloudGenThermometer.Shared\obj\Debug\netstandard2.1\CloudGenThermometer.Shared.pdb
+e:\Sviluppo\GlobalAzure2021\CloudGen2021-API\CloudGenThermometer.Shared\bin\Debug\netstandard2.1\CloudGenThermometer.Shared.deps.json
+e:\Sviluppo\GlobalAzure2021\CloudGen2021-API\CloudGenThermometer.Shared\bin\Debug\netstandard2.1\CloudGenThermometer.Shared.dll
+e:\Sviluppo\GlobalAzure2021\CloudGen2021-API\CloudGenThermometer.Shared\bin\Debug\netstandard2.1\CloudGenThermometer.Shared.pdb
+e:\Sviluppo\GlobalAzure2021\CloudGen2021-API\CloudGenThermometer.Shared\obj\Debug\netstandard2.1\CloudGenThermometer.Shared.csprojAssemblyReference.cache
+e:\Sviluppo\GlobalAzure2021\CloudGen2021-API\CloudGenThermometer.Shared\obj\Debug\netstandard2.1\CloudGenThermometer.Shared.AssemblyInfoInputs.cache
+e:\Sviluppo\GlobalAzure2021\CloudGen2021-API\CloudGenThermometer.Shared\obj\Debug\netstandard2.1\CloudGenThermometer.Shared.AssemblyInfo.cs
+e:\Sviluppo\GlobalAzure2021\CloudGen2021-API\CloudGenThermometer.Shared\obj\Debug\netstandard2.1\CloudGenThermometer.Shared.csproj.CoreCompileInputs.cache
+e:\Sviluppo\GlobalAzure2021\CloudGen2021-API\CloudGenThermometer.Shared\obj\Debug\netstandard2.1\CloudGenThermometer.Shared.dll
+e:\Sviluppo\GlobalAzure2021\CloudGen2021-API\CloudGenThermometer.Shared\obj\Debug\netstandard2.1\CloudGenThermometer.Shared.pdb
