@@ -22,10 +22,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\v1\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\CloudGenThermometer.Mediator\CloudGenThermometer.Mediator.csproj" />
     <ProjectReference Include="..\CloudGenThermometer.ReadModel.MongoDb\CloudGenThermometer.ReadModel.MongoDb.csproj" />
     <ProjectReference Include="..\CloudGenThermometer.Shared\CloudGenThermometer.Shared.csproj" />
