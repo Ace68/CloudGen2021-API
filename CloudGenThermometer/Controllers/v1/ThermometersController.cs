@@ -36,5 +36,21 @@ namespace CloudGenThermometer.Controllers.v1
                 return this.BadRequest(CommonServices.GetErrorMessage(ex));
             }
         }
+
+        [HttpGet]
+        [Route("devices/deviceName/{deviceName}")]
+        public async Task<ActionResult<IEnumerable<ThermometerTrendJson>>> GetThermometerTrendByDeviceName([FromRoute] string deviceName)
+        {
+            try
+            {
+                var trend = await this._thermometerServices.GetThermometerTrendByDevicenNameAsync(new DeviceName(deviceName));
+                return new ActionResult<IEnumerable<ThermometerTrendJson>>(trend);
+            }
+            catch (Exception ex)
+            {
+                this.Logger.LogError(CommonServices.GetDefaultErrorTrace(ex));
+                return this.BadRequest(CommonServices.GetErrorMessage(ex));
+            }
+        }
     }
 }

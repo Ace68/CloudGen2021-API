@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Dv3QS3Sj7UAYVEGtBqrd/tyd2Y9sdijH0zDFziLGjjv5A2a5EWhtlirQeBceUURXZQZ0uR2IJAHhPnsxUJ1Otw==",
+  "dgSpecHash": "PG9L0St3A3DkM99el8oubHEXQLKs0eu+grtkFp/wWiM33xCSovBUkQGYOQHWQyvwrKIMQb72Tq9VVlrUD79hsg==",
   "success": true,
   "projectFilePath": "e:\\Sviluppo\\GlobalAzure2021\\CloudGen2021-API\\CloudGenThermometer.ReadModel.MongoDb\\CloudGenThermometer.ReadModel.MongoDb.csproj",
   "expectedPackageFiles": [

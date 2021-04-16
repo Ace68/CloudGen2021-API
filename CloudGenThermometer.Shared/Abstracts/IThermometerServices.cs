@@ -11,5 +11,6 @@ namespace CloudGenThermometer.Shared.Abstracts
             CommunicationDate communicationDate);
 
         Task<IEnumerable<ThermometerTrendJson>> GetThermometerTrendAsync(DeviceId deviceId);
+        Task<IEnumerable<ThermometerTrendJson>> GetThermometerTrendByDevicenNameAsync(DeviceName deviceName);
     }
 }

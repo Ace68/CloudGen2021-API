@@ -51,5 +51,24 @@ namespace CloudGenThermometer.ApplicationServices.Concretes
                 throw;
             }
         }
+
+        public async Task<IEnumerable<ThermometerTrendJson>> GetThermometerTrendByDevicenNameAsync(DeviceName deviceName)
+        {
+            try
+            {
+                var trendDto =
+                    await this.Persister.FindAsync<ThermometerTrend>(t => t.DeviceName.Equals(deviceName.Value));
+                var trendArray = trendDto as ThermometerTrend[] ?? trendDto.ToArray();
+
+                return trendArray.Any()
+                    ? trendArray.Select(dto => dto.ToJson())
+                    : Enumerable.Empty<ThermometerTrendJson>();
+            }
+            catch (Exception ex)
+            {
+                this.Logger.LogError(CommonServices.GetDefaultErrorTrace(ex));
+                throw;
+            }
+        }
     }
 }
