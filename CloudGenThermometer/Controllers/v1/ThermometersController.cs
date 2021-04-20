@@ -11,6 +11,7 @@ using Microsoft.Extensions.Logging;
 
 namespace CloudGenThermometer.Controllers.v1
 {
+    [Route("v1/[controller]")]
     public class ThermometersController : BaseController
     {
         private readonly IThermometerServices _thermometerServices;
